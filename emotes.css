@@ -1,0 +1,653 @@
+/**
+ *  Seriousless Emotes
+ *  Copyright (C) 2015 Sindastra
+ */
+
+.sprite {
+display:inline-block;
+overflow:hidden;
+background-repeat:no-repeat;
+background-image:url(img/emotes.png);
+}
+
+.amazed {
+width:20px;
+height:20px;
+background-position:-177px -36px;
+}
+
+.angry {
+width:20px;
+height:20px;
+background-position:-470px -79px;
+}
+
+.bedrock {
+width:23px;
+height:25px;
+background-position:-169px -58px;
+}
+
+.brown-mushroom {
+width:25px;
+height:25px;
+background-position:-546px -2px;
+}
+
+.brownmushroomcap {
+width:23px;
+height:25px;
+background-position:-199px -36px;
+}
+
+.cactus {
+width:23px;
+height:25px;
+background-position:-194px -63px;
+}
+
+.chest {
+width:23px;
+height:25px;
+background-position:-173px -100px;
+}
+
+.clay-block {
+width:23px;
+height:25px;
+background-position:-198px -90px;
+}
+
+.coal-ore {
+width:23px;
+height:25px;
+background-position:-219px -63px;
+}
+
+.cocoa-plant {
+width:19px;
+height:25px;
+background-position:-224px -36px;
+}
+
+.crafting-table {
+width:23px;
+height:25px;
+background-position:-223px -90px;
+}
+
+.daisy {
+width:44px;
+height:28px;
+background-position:-150px -2px;
+}
+
+.dandelion {
+width:9px;
+height:12px;
+background-position:-574px -20px;
+}
+
+.dead-bush {
+width:23px;
+height:25px;
+background-position:-245px -34px;
+}
+
+.diamond-ore {
+width:23px;
+height:25px;
+background-position:-270px -32px;
+}
+
+.diamond-pickaxe {
+width:26px;
+height:26px;
+background-position:-437px -2px;
+}
+
+.diamond-sword {
+width:32px;
+height:32px;
+background-position:-196px -2px;
+}
+
+.dirt {
+width:23px;
+height:25px;
+background-position:-295px -32px;
+}
+
+.dragon-egg {
+width:25px;
+height:24px;
+background-position:-150px -32px;
+}
+
+.emerald-ore {
+width:23px;
+height:25px;
+background-position:-320px -30px;
+}
+
+.end-portal {
+width:23px;
+height:13px;
+background-position:-169px -85px;
+}
+
+.end-portal-frame {
+width:25px;
+height:25px;
+background-position:-142px -58px;
+}
+
+.evil {
+width:20px;
+height:20px;
+background-position:-470px -101px;
+}
+
+.evilkingmonkey {
+width:50px;
+height:49px;
+background-position:-98px -2px;
+}
+
+.fishing-rod {
+width:26px;
+height:28px;
+background-position:-292px -2px;
+}
+
+.furnace {
+width:23px;
+height:25px;
+background-position:-345px -30px;
+}
+
+.fury {
+width:42px;
+height:47px;
+background-position:-98px -53px;
+}
+
+.gold-ore {
+width:23px;
+height:25px;
+background-position:-370px -30px;
+}
+
+.grass {
+width:23px;
+height:25px;
+background-position:-395px -31px;
+}
+
+.gravel {
+width:23px;
+height:25px;
+background-position:-420px -31px;
+}
+
+.grin {
+width:28px;
+height:26px;
+background-position:-320px -2px;
+}
+
+.happy {
+width:20px;
+height:20px;
+background-position:-361px -84px;
+}
+
+.head-front-creeper {
+width:18px;
+height:18px;
+background-position:-517px -107px;
+}
+
+.head-front-skelleton {
+width:18px;
+height:18px;
+background-position:-361px -106px;
+}
+
+.head-front-steve {
+width:18px;
+height:18px;
+background-position:-381px -107px;
+}
+
+.head-front-wither {
+width:18px;
+height:18px;
+background-position:-401px -107px;
+}
+
+.head-front-zombie {
+width:18px;
+height:18px;
+background-position:-421px -107px;
+}
+
+.head-perspective-creeper {
+width:20px;
+height:22px;
+background-position:-470px -55px;
+}
+
+.head-perspective-skelleton {
+width:20px;
+height:22px;
+background-position:-273px -86px;
+}
+
+.head-perspective-steve {
+width:20px;
+height:22px;
+background-position:-295px -86px;
+}
+
+.head-perspective-wither {
+width:20px;
+height:22px;
+background-position:-317px -86px;
+}
+
+.head-perspective-zombie {
+width:20px;
+height:22px;
+background-position:-339px -84px;
+}
+
+.ice {
+width:23px;
+height:25px;
+background-position:-445px -30px;
+}
+
+.intrigued {
+width:20px;
+height:20px;
+background-position:-383px -85px;
+}
+
+.iron-axe {
+width:24px;
+height:28px;
+background-position:-520px -2px;
+}
+
+.iron-ore {
+width:23px;
+height:25px;
+background-position:-493px -44px;
+}
+
+.lapis-lazuli-ore {
+width:23px;
+height:25px;
+background-position:-518px -53px;
+}
+
+.lava {
+width:23px;
+height:24px;
+background-position:-148px -101px;
+}
+
+.leaves {
+width:23px;
+height:25px;
+background-position:-543px -56px;
+}
+
+.lily-pad {
+width:21px;
+height:23px;
+background-position:-470px -30px;
+}
+
+.mad {
+width:28px;
+height:28px;
+background-position:-262px -2px;
+}
+
+.melon-block {
+width:23px;
+height:25px;
+background-position:-244px -63px;
+}
+
+.mono {
+width:94px;
+height:119px;
+background-position:-2px -2px;
+}
+
+.monster-spawner {
+width:23px;
+height:25px;
+background-position:-248px -90px;
+}
+
+.mycelium {
+width:23px;
+height:25px;
+background-position:-320px -57px;
+}
+
+.omg {
+width:27px;
+height:26px;
+background-position:-350px -2px;
+}
+
+.packed-ice {
+width:23px;
+height:25px;
+background-position:-345px -57px;
+}
+
+.poppy {
+width:10px;
+height:16px;
+background-position:-573px -2px;
+}
+
+.pumpkin {
+width:23px;
+height:25px;
+background-position:-370px -57px;
+}
+
+.red-mushroom {
+width:25px;
+height:19px;
+background-position:-520px -32px;
+}
+
+.redmushroomcap {
+width:23px;
+height:25px;
+background-position:-395px -58px;
+}
+
+.redstone-ore {
+width:23px;
+height:25px;
+background-position:-420px -58px;
+}
+
+.sand {
+width:23px;
+height:25px;
+background-position:-445px -57px;
+}
+
+.sandstone {
+width:23px;
+height:25px;
+background-position:-492px -71px;
+}
+
+.snow {
+width:25px;
+height:14px;
+background-position:-142px -85px;
+}
+
+.snow-block {
+width:23px;
+height:25px;
+background-position:-445px -84px;
+}
+
+.stone {
+width:23px;
+height:25px;
+background-position:-517px -80px;
+}
+
+.stone-shovel {
+width:26px;
+height:26px;
+background-position:-465px -2px;
+}
+
+.sugar-canes {
+width:25px;
+height:25px;
+background-position:-547px -29px;
+}
+
+.surprised {
+width:20px;
+height:20px;
+background-position:-405px -85px;
+}
+
+.tall-grass {
+width:23px;
+height:21px;
+background-position:-492px -98px;
+}
+
+.tnt {
+width:23px;
+height:25px;
+background-position:-542px -83px;
+}
+
+.torch {
+width:7px;
+height:25px;
+background-position:-568px -56px;
+}
+
+.up {
+width:25px;
+height:40px;
+background-position:-493px -2px;
+}
+
+.vine {
+width:23px;
+height:23px;
+background-position:-98px -102px;
+}
+
+.water {
+width:23px;
+height:23px;
+background-position:-123px -102px;
+}
+
+.white-stained-clay {
+width:23px;
+height:25px;
+background-position:-270px -59px;
+}
+
+.wood {
+width:23px;
+height:25px;
+background-position:-295px -59px;
+}
+
+.xd {
+width:27px;
+height:26px;
+background-position:-379px -2px;
+}
+
+.yarr {
+width:27px;
+height:27px;
+background-position:-408px -2px;
+}
+
+.yush {
+width:30px;
+height:30px;
+background-position:-230px -2px;
+}
+
+.bwah {
+width:50px;
+height:50px;
+background-image:url(img/bwah.gif);
+}
+
+.cheers {
+width:51px;
+height:28px;
+background-image:url(img/cheers.gif);
+}
+
+.darkvalo {
+width:85px;
+height:84px;
+background-image:url(img/darkvalo.gif);
+}
+
+.facepalm {
+width:15px;
+height:15px;
+background-image:url(img/facepalm.gif);
+}
+
+.fist {
+width:20px;
+height:19px;
+background-image:url(img/fist.gif);
+}
+
+.happyd {
+width:15px;
+height:15px;
+background-image:url(img/happy.gif);
+}
+
+.hat {
+width:42px;
+height:28px;
+background-image:url(img/hat.gif);
+}
+
+.heart {
+width:17px;
+height:15px;
+background-image:url(img/heart.gif);
+}
+
+.hugs {
+width:38px;
+height:12px;
+background-image:url(img/hugs.gif);
+}
+
+.jugglin {
+width:50px;
+height:97px;
+background-image:url(img/jugglin.gif);
+}
+
+.king {
+width:28px;
+height:28px;
+background-image:url(img/king.gif);
+}
+
+.plot {
+width:20px;
+height:20px;
+background-image:url(img/plot.gif);
+}
+
+.rave {
+width:45px;
+height:35px;
+background-image:url(img/rave.gif);
+}
+
+.sad {
+width:18px;
+height:18px;
+background-image:url(img/sad.gif);
+}
+
+.sherlock {
+width:31px;
+height:27px;
+background-image:url(img/sherlock.gif);
+}
+
+.shrug {
+width:19px;
+height:19px;
+background-image:url(img/shrug.gif);
+}
+
+.smile {
+width:19px;
+height:19px;
+background-image:url(img/smile.gif);
+}
+
+.tardrave {
+width:26px;
+height:22px;
+background-image:url(img/tardrave.gif);
+}
+
+.tongue {
+width:20px;
+height:20px;
+background-image:url(img/tongue.gif);
+}
+
+.xanj {
+width:50px;
+height:50px;
+background-image:url(img/xanj.gif);
+}
+
+.zzz {
+width:29px;
+height:29px;
+background-image:url(img/zzz.gif);
+}
+
+.awesomed {
+width:49px;
+height:49px;
+background-image:url(img/awesomed.gif);
+}
+
+.codger {
+width:29px;
+height:24px;
+background-image:url(img/codger.gif);
+}
+
+.j {
+width:19px;
+height:15px;
+background-image:url(img/j.gif);
+}
+
+.omgomg {
+width:19px;
+height:19px;
+background-image:url(img/omgomg.gif);
+}
+
+.wave {
+width:21px;
+height:19px;
+background-image:url(img/wave.gif);
+}
